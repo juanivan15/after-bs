@@ -1,0 +1,25 @@
+.logo{
+    width: 5rem;
+}
+.fuentes{
+    font-size: 1.5rem;
+    padding: 2rem;
+    font-weight: bold;
+}
+.fuentes li a:hover{
+    background-color: red;
+}
+.colorBtn{
+    background-color: red;
+}
+.imgCarousel{
+    height:350px;
+    object-fit: cover;
+    width: 260px;
+}
+.tituloProductos{
+    background-color: red;
+    color: #fff;
+    text-align: center;
+    text-transform: uppercase;
+}
