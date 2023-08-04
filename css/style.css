@@ -1,3 +1,8 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
 .logo{
     width: 5rem;
 }
@@ -22,4 +27,9 @@
     color: #fff;
     text-align: center;
     text-transform: uppercase;
+}
+footer{
+    background-color: black;
+    color: white;
+    text-align: center;
 }
